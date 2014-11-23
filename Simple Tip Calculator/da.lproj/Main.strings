@@ -1,0 +1,27 @@
+
+/* Class = "IBUITextField"; placeholder = "Enter Tip Percentage"; ObjectID = "8G7-yn-8HS"; */
+"8G7-yn-8HS.placeholder" = "Indtast Procent";
+
+/* Class = "IBUITextField"; placeholder = "Enter Meal Cost"; ObjectID = "E1X-9u-5Nw"; */
+"E1X-9u-5Nw.placeholder" = "Indtast Pris";
+
+/* Class = "IBUIButton"; normalTitle = "Other"; ObjectID = "XsF-lc-Jcl"; */
+"XsF-lc-Jcl.normalTitle" = "Andet";
+
+/* Class = "IBUIButton"; normalTitle = "Calculate"; ObjectID = "Y1C-H5-IjA"; */
+"Y1C-H5-IjA.normalTitle" = "Udregn";
+
+/* Class = "IBUIButton"; normalTitle = "$"; ObjectID = "cWX-ER-TC0"; */
+"cWX-ER-TC0.normalTitle" = "$";
+
+/* Class = "IBUIButton"; normalTitle = "Clear"; ObjectID = "dqu-gO-Vca"; */
+"dqu-gO-Vca.normalTitle" = "Ryd";
+
+/* Class = "IBUILabel"; text = "Tip Calculator"; ObjectID = "knM-Na-xr2"; */
+"knM-Na-xr2.text" = "Drikkepenge Udregner";
+
+/* Class = "IBUILabel"; text = "Tip Total"; ObjectID = "mAf-8J-f26"; */
+"mAf-8J-f26.text" = "I Alt";
+
+/* Class = "IBUIButton"; normalTitle = "€"; ObjectID = "xhT-5P-9YK"; */
+"xhT-5P-9YK.normalTitle" = "€";
